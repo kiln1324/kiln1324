@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
   <br/><br/>
 
-  <h2>Desing tools</h2>
+  <h2>Design tools</h2>
   <img src="https://img.shields.io/badge/Adobe-Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe-XD-FF61F6?style=flat-square&logo=Adobe-XD&logoColor=white"/>
